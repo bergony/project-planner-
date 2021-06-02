@@ -2,15 +2,15 @@
   "projects": [
     {
       "id": 1,
-      "title": "Create new home banner",
-      "details": "Lore ipsum",
-      "complete": true
+      "title": "Create new home banner Again",
+      "details": "Lore ipsum Lore ipsum Lore ipsum Lore ipsumLore ipsum",
+      "complete": false
     },
     {
-      "id": 2,
-      "title": "Make marketing email",
-      "details": "Lore ipsum",
-      "complete": true
+      "title": "Update project",
+      "details": "Agora",
+      "complete": true,
+      "id": 2
     }
   ]
 }
